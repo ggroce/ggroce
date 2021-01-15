@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 😁
+
+- 🔭 I’m currently working on web development, learning more about the Javascript/React/Redux stack, and being a consumer/producer of REST API calls, JSON, etc.  I am successfully deploying all of the above to a single DigitalOcean droplet, where it's operating a few separate domains, and serving React front end with Node backend.  Exciting times!  (for real)  
+
 
 <!--
 **ggroce/ggroce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🔭 I’m currently working on web development, learning more about the Javascript/React/Redux stack, and being a consumer/producer of REST API calls, JSON, etc.  I am successfully deploying all of the above to a single DigitalOcean droplet, where it's operating a few separate domains, and serving React front end with Node backend.  Exciting times.  
