@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on web development, learning more about the Javascript/React/Redux stack, and being a consumer/producer of REST API calls, JSON, etc.  I am successfully deploying a React front end, Node backend, and a few separate domains, all SSL'd up, on a single DigitalOcean droplet.  Exciting times!  (for real)  
 <br>
 
-
+[![GGroce's github stats](https://github-readme-stats.vercel.app/api?username=ggroce&count_private=true&show_icons=true&theme=gruvbox&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ggroce/ggroce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
