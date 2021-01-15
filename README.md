@@ -1,6 +1,6 @@
 ### Hi there 😁
 
-- 🔭 I’m currently working on web development, learning more about the Javascript/React/Redux stack, and being a consumer/producer of REST API calls, JSON, etc.  I am successfully deploying a React front end with a Node backend and a few separate domains, all SSL'd up, on a single DigitalOcean droplet.  Exciting times!  (for real)  
+- 🔭 I’m currently working on web development, learning more about the Javascript/React/Redux stack, and being a consumer/producer of REST API calls, JSON, etc.  I am successfully deploying a React front end, Node backend, and a few separate domains, all SSL'd up, on a single DigitalOcean droplet.  Exciting times!  (for real)  
 
 
 <!--
