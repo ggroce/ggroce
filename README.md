@@ -1,6 +1,6 @@
-### Hey, I am Garrett 😁  
+### Thanks for visiting
 <img src="https://github.com/ggroce/ggroce/raw/main/header1.png" alt="header with a picture of Garrett | Software Developer">  
-I cannot solve the worlds problems, but perhaps I can help you with yours.  
+I can't solve the worlds problems, but perhaps I can help you with yours.  
 
 <br>
 <br>
