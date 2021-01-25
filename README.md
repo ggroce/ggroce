@@ -1,10 +1,7 @@
 ### Thanks for visiting
-<img src="https://github.com/ggroce/ggroce/raw/main/header1.png" alt="header with a picture of Garrett | Software Developer">  
 I can't solve the worlds problems, but perhaps I can help you with yours.  
-
 <br>
 <br>
-
 - 🔭 I’m currently working on web development, learning more about the Javascript/React/Redux stack, and being a consumer/producer of REST API calls, JSON, etc.  I am successfully deploying a React front end, Node backend, and a few separate domains, all SSL'd up, on a single DigitalOcean droplet.  Exciting times!  (for real)  
 <br>
 
