@@ -1,6 +1,5 @@
 ### Thanks for visiting
-<img src="https://github.com/ggroce/ggroce/blob/main/header.png">
-<br>
+<img align="right" src="https://github.com/ggroce/ggroce/blob/main/header1.png">
 I can't solve the worlds problems, but perhaps I can help you with yours. 
 <br>
 <br>
