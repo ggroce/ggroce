@@ -1,7 +1,7 @@
 ### Thanks for visiting
 <img align="right" width="300" src="https://github.com/ggroce/ggroce/blob/main/header2.png">
 <br>
-- 🔭 I’m currently working on web development, learning more about the Javascript/React/Redux stack and utilizing NodeJS on the backend.  I am successfully deploying multiple React front ends, Node backends, and a few separate domains, all SSL'd up, on a single DigitalOcean droplet. 
+- 🔭 I’m currently working on web development, learning more about the JavaScript/React/Redux stack and utilizing NodeJS on the backend.  I am successfully deploying multiple React front ends, Node backends, and a few separate domains, all SSL'd up, on a single DigitalOcean droplet. 
 <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=ggroce&count_private=1&show_icons=true&theme=gruvbox&hide=stars">
