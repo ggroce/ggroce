@@ -1,5 +1,5 @@
 ### Thanks for visiting
-<img align="right" width="300" src="https://github.com/ggroce/ggroce/blob/main/header2.png">
+
 <br>
 - 🔭 I’m currently working on web development, learning more about the JavaScript/React/Redux stack and utilizing NodeJS on the backend.  I am successfully deploying multiple React front ends, Node backends, and a few separate domains, all SSL'd up, on a single DigitalOcean droplet. 
 <br>
